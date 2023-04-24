@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "singer": "amme",
+    "music_genre": "nhacviet",
+    "image": "kpop.jpeg",
+    "title": "Bùa Yêu",
+    "filename": "BuaYeu.mp3"
+  },
+  {
+    "id": "2",
+    "singer": "amme",
+    "music_genre": "nhacviet",
+    "title": "Ưng Quá Chừng",
+    "filename": "UngQuaChung.mp3"
+  },
+  {
+    "id": "3",
+    "singer": "amme",
+    "music_genre": "nhacviet",
+    "title": "Yêu Anh Đi Mẹ Anh Bán Bánh Mì",
+    "filename": "YeuAnhDiMeAnhBanBanhMi.mp3"
+  },
+  {
+    "id": "4",
+    "singer": "amme",
+    "music_genre": "nhacviet",
+    "title": " simple love",
+    "filename": "SimpleLove-ObitoSeachains.mp3"
+  },
+  {
+    "id": "5",
+    "singer": "amme",
+    "music_genre": "nhacviet",
+    "title": " bật tình yêu lên",
+    "filename": "BatTinhYeuLen-TangDuyTanHoaMinzy.mp3"
+  },
+  {
+    "id": "6",
+    "singer": "amme",
+    "music_genre": "nhacviet",
+    "title": " ghé vào tai",
+    "filename": "GheVaoTai-UMIEFreakyHo.mp3"
+  },
+  { 
+    "id": "7",
+    "singer": "amme",
+    "music_genre": "nhacviet",
+    "title": " nếu lúc đó",
+    "filename": "NeuLucDo-tlinh.mp3"
+  },
+  {
+    "id": "8",
+    "singer": "amme",
+    "music_genre": "nhacviet",
+    "title": " Người đến sau thay em",
+    "filename": "NguoiDenSauThayEm.mp3"
+  },
+  {
+    "id": "9",
+    "singer": "amme",
+    "music_genre": "nhacviet",
+    "title": " Ưng quá chừng",
+    "filename": "UngQuaChung-AMEE.mp3"
+  },
+  {
+    "id": "10",
+    "singer": "amme",
+    "music_genre": "nhacviet",
+    "title": " Vì yêu cứ đâm đầu",
+    "filename": "ViYeuCuDamDau-MINDenJustaTee.mp3"
+  }
+  
+]

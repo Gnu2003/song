@@ -4,7 +4,7 @@
     "title": "Bùa Yêu",
     "singer": "amme",
     "music_genre": "nhacviet",
-    "image": "kpop.jpeg",
+    "image": "https://static-images.vnncdn.net/files/publish/2022/5/27/hain7580-102.jpg",
     "filename": "BuaYeu.mp3"
   },
   {
@@ -12,7 +12,7 @@
     "title": "Ưng Quá Chừng",
     "singer": "amme",
     "music_genre": "nhacviet",
-    "image": "kpop.jpeg",
+    "image": "https://static-images.vnncdn.net/files/publish/2022/5/27/hain7580-102.jpg",
     "filename": "UngQuaChung.mp3"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Yêu Anh Đi Mẹ Anh Bán Bánh Mì",
     "singer": "amme",
     "music_genre": "nhacviet",
-    "image": "kpop.jpeg",
+    "image": "https://static-images.vnncdn.net/files/publish/2022/5/27/hain7580-102.jpg",
     "filename": "YeuAnhDiMeAnhBanBanhMi.mp3"
   },
   {
@@ -28,8 +28,8 @@
     "title": " simple love",
     "singer": "amme",
     "music_genre": "nhacviet",
-    "image": "kpop.jpeg",
+    "image": "https://static-images.vnncdn.net/files/publish/2022/5/27/hain7580-102.jpg",
     "filename": "SimpleLove-ObitoSeachains.mp3"
-  },
+  }
   
 ]
